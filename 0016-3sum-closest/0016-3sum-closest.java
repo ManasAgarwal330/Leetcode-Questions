@@ -1,32 +1,35 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        
-        int cur_sum=Integer.MAX_VALUE, ans=Integer.MAX_VALUE, n= nums.length;
-        Arrays.sort( nums);
+        Arrays.sort(nums) ;// nlogn
+        int i = 0;
+        int ans = Integer.MAX_VALUE-10000;
+        while(i < nums.length-2){
+            int ans2sum = twoSum(nums,target-nums[i],i+1,nums.length-1);
+            if(Math.abs(target-ans) > Math.abs(target-(nums[i]+ans2sum))){
+                ans = nums[i]+ans2sum;
+            }
+            i++;
+        }
+        return ans;
+    }
 
-        for( int i=0; i<n; i++){
-           
-            int lft=i+1, ryt= n-1;
-            while( lft<ryt){
-                cur_sum= nums[i]+ nums[lft]+ nums[ryt];
-                if( cur_sum==target){
-                    return target;
-                }
-                else{
-                    if( Math.abs(ans- target)> Math.abs(cur_sum- target)){
-                        ans= cur_sum;
-                    }
-
-                    if( cur_sum > target ){ 
-                    ryt--;
-                    }
-                    else{
-                        lft++;
-                    }
-                }
+    public int twoSum(int[] numbers, int target , int left, int right) {
+        int closestAns = Integer.MAX_VALUE-10000;
+        while(left < right){
+            if(Math.abs(target - closestAns) > Math.abs(target-(numbers[left]+numbers[right]))){
+                closestAns = numbers[left]+numbers[right];
+            }
+            if((numbers[left]+numbers[right]) < target){
+                left++;
+            }else if((numbers[left]+numbers[right]) > target)
+            {
+                right--;
+            }else{
+                left++;
+                right--;
             }
         }
 
-        return ans;
+        return closestAns;
     }
 }
