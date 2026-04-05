@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -38,4 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
