@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
