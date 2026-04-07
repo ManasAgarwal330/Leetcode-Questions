@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
