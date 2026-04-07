@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -123,5 +126,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
