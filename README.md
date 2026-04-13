@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -191,4 +193,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
