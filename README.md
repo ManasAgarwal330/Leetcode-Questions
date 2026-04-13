@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0457-circular-array-loop) |
@@ -181,4 +183,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0986-interval-list-intersections) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
