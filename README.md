@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
@@ -200,4 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
