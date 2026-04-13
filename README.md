@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
