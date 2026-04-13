@@ -18,7 +18,6 @@ class Solution {
             ListNode start = temp;
             int count = k;
 
-            System.out.println(k);
             while(count > 0 && temp != null){
                 if(k%2 == 1 && count == 1){
                     prev = temp;
@@ -29,7 +28,6 @@ class Solution {
             }
             
             if(k%2 == 0 && count == 0){
-                System.out.println("inside");
                 prev.next = reverseBetween(start,1,k);
             }else if((k-count)%2 == 0){
                prevRef.next = reverseBetween(start,1,k-count);
