@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -207,10 +208,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
