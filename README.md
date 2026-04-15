@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,11 +165,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,10 +189,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0202-happy-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
