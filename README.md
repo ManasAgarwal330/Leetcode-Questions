@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -255,8 +258,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
