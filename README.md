@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0457-circular-array-loop) |
 | [0503-next-greater-element-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
