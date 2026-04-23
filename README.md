@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2615-sum-of-distances](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2615-sum-of-distances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2615-sum-of-distances](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2615-sum-of-distances](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/2615-sum-of-distances) |
 ## Math
 |  |
 | ------- |
