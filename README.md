@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1046-last-stone-weight) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Backtracking
 |  |
 | ------- |
