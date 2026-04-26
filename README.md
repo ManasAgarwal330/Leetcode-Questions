@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -357,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0767-reorganize-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/1046-last-stone-weight) |
@@ -391,5 +397,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
