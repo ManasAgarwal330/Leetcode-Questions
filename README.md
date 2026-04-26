@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0402-remove-k-digits) |
@@ -399,4 +400,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
