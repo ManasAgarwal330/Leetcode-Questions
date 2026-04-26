@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -404,12 +405,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
