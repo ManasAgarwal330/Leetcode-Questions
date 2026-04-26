@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0480-sliding-window-median](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0621-task-scheduler) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0480-sliding-window-median) |
+| [0525-contiguous-array](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ManasAgarwal330/Leetcode-Questions/tree/master/0621-task-scheduler) |
