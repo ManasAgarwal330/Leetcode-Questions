@@ -14,37 +14,33 @@
  * }
  */
 class Solution {
-    public boolean ans = false;
+    TreeNode p = null;
     public boolean findTarget(TreeNode root, int k) {
-        ans = false;
-        helper(root,root,k);
-        return ans;
-    }
-    public void helper(TreeNode root,TreeNode rt,int k){
-        if(rt == null)return;
-        if(rt.val == k-rt.val){}
-        else{
-            boolean fnd = find(root,k - rt.val);
-            if(fnd){
-                ans = true;
-                return;
-            }
-        }
-        helper(root,rt.left,k);
-        helper(root,rt.right,k);
-    }
-    public boolean find(TreeNode root,int vl){
         if(root == null)return false;
-        else if(root.val == vl)return true;
-        
-        boolean left = false;
-        boolean right = false;
-        if(root.val < vl){
-            left = find(root.right,vl);
-        }else{
-            right = find(root.left,vl);
-        }
-        if(left || right)return true;
+        if(p == null)p = root;
+
+        // System.out.println(p.val+" "+root.val+" "+(k-root.val));
+        boolean ans = search(p,root,k-root.val);
+        // System.out.println(ans);
+        if(ans) return true;
+        boolean leftAns = findTarget(root.left,k);
+        boolean rightAns = findTarget(root.right,k);
+
+        if(leftAns || rightAns) return true;
+
         return false;
+    }
+
+    public boolean search(TreeNode parentRoot,TreeNode root,int target){
+        if(parentRoot == null) return false;
+        else if(parentRoot.val == target && root.val != target)return true;
+        boolean ans = false;
+        if(parentRoot.val < target){
+            ans |= search(parentRoot.right,root,target);
+        }else{
+            ans |= search(parentRoot.left,root,target);
+        }
+
+        return ans;
     }
 }
