@@ -14,32 +14,31 @@
  * }
  */
 class Solution {
-    class MinMax{
-        long min;
-        long max;
-        public MinMax(long min,long max){
-            this.min = min;
-            this.max = max;
-        }
-    }
-    boolean isValid = true;
+    
+    boolean isBst = true;
     public boolean isValidBST(TreeNode root) {
-        valid(root);
-        return isValid;
-    }
+        bst(root);
 
-    public MinMax valid(TreeNode root){
-        if(root == null)return new MinMax(Long.MAX_VALUE,Long.MIN_VALUE);
+        return isBst;
+    } 
 
-        MinMax left = valid(root.left);
-        MinMax right = valid(root.right);
+    public long[] bst(TreeNode root){
+        if(root == null)return new long[]{Long.MAX_VALUE,Long.MIN_VALUE};
 
-        if(left.max < root.val && root.val < right.min){
+        long[] left = bst(root.left);
+        long[] right = bst(root.right);
 
-        }else{
-            isValid = false;
+        long smallestForNode = Math.min(Math.min(left[0],right[0]),root.val);
+        long largestForNode = Math.max(Math.max(left[1],right[1]),root.val);
+
+        if(left[1] >= root.val){
+            isBst = false;
         }
 
-        return new MinMax(Math.min(left.min,root.val),Math.max(right.max,root.val));
+        if(right[0] <= root.val){
+            isBst = false;
+        }
+
+        return new long[]{smallestForNode,largestForNode};
     }
 }
