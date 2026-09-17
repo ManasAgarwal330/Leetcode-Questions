@@ -8,30 +8,43 @@
  * }
  */
 class Solution {
-    TreeNode lca = null;
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null)return null;
-        findLowestCommonAncestor(root,p,q);
-        return lca;
 
+    boolean found = false;
+    TreeNode lcaNode = null;
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        lca(root,p,q);
+        return lcaNode;
     }
 
-    public int findLowestCommonAncestor(TreeNode root, TreeNode p,TreeNode q){
-        if(root == null)return 0;
+    public boolean lca(TreeNode root,TreeNode p,TreeNode q){
+        if(root == null)return false;
 
-        int left = findLowestCommonAncestor(root.left,p,q);
-        int right = findLowestCommonAncestor(root.right,p,q);
+        boolean left = lca(root.left,p,q);
+        boolean right = lca(root.right,p,q);
 
-        int ans = left+right;
-       if(root.val == p.val || root.val == q.val){
-            ans += 1;
+        if(found){
+            return false;
         }
 
-        if(ans == 2 && lca == null){
-            lca = root;
+        if(left && right)
+        {
+            found = true;
+            lcaNode = root;
         }
 
-        return ans;
-        
+        if((left && (root.val == p.val || root.val == q.val)) || (left && (root.val == p.val || root.val == q.val))){
+            found = true;
+            lcaNode = root;
+        }
+
+        if((right && (root.val == p.val || root.val == q.val)) || (right && (root.val == p.val || root.val == q.val))){
+            found = true;
+            lcaNode = root;
+        }
+
+        if(root.val == p.val || root.val == q.val)return true;
+
+        return (left || right);
+
     }
 }
